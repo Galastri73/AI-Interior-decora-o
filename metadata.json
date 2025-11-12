@@ -1,0 +1,5 @@
+{
+  "name": "AI Room Designer & Image Editor",
+  "description": "Upload photos of your room to get AI-powered redesign suggestions, or use text prompts to creatively edit any image.",
+  "requestFramePermissions": []
+}
